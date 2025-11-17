@@ -3,6 +3,8 @@ I am an Artist and Creative Technologist based in New York City.
 I love fun and interactive design that mixes practicality with effectiveness. 
 Fan of comics, movies and fine art.
 
+Currently teaching programming at the Parsons School of Design.
+
 
 <!--
 **detective-bored/detective-bored** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
